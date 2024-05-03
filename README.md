@@ -1,8 +1,8 @@
-# Título del documento
+# Título del documento 35
 
 Este es un documento de ejemplo en formato Markdown. Aquí puedes escribir texto en **negrita**, *cursiva*, o incluso agregar enlaces [como este](https://www.example.com).
 
-## Sección 1
+### Sección 1
 
 Puedes organizar tu contenido en secciones utilizando títulos de diferentes niveles.
 
