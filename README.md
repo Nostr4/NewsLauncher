@@ -1,14 +1,11 @@
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-Markdown allows you to be lazy and only put the > before the first line of a hard-wrapped paragraph:
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
+## Título
+### Subtítulo
+Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+- Elemento 1
+- Elemento 2
+- Elemento 3
+Este es un ejemplo de texto que da entrada a una lista numerada:
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
