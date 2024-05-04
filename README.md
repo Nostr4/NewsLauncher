@@ -1,5 +1,5 @@
 ##### ChangeLog
-<body style="background-image: url('{imagen_fondo_news}'); background-size: cover;">
+<body style="background-color: #f0f0f0; background-size: cover;">
 - 24/05/2024
     Se actualiza el Launcher.
 - 25/04/2024
