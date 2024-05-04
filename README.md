@@ -1,24 +1,17 @@
-##### ChangeLog
-<h1>EPAasdfwer</h1>
-- 24/05/2024
-    Se actualiza el Launcher.
-- 25/04/2024
-    Se crea el Launcher.
-- 20/04/2024
-    Evento de captura en la ruta 13.
-
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-Este es un ejemplo de texto que da entrada a una lista numerada:
-
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-
-Al texto en Markdown puedes añadirle formato como **negrita** o 
-
-*cursiva* de una manera muy sencilla.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento HTML con fondo rojo</title>
+    <style>
+        body {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Título del documento</h1>
+    <p>Este es un párrafo dentro del documento HTML.</p>
+</body>
+</html>
