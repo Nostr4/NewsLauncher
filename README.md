@@ -1,8 +1,5 @@
 ##### ChangeLog
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://path-to-your-dark-mode-image.webp">
-  <img alt="A single image caption for both variants" src="https://path-to-default-light-mode-image.webp">
-</picture>
+<h1>EPAasdfwer</h1>
 - 24/05/2024
     Se actualiza el Launcher.
 - 25/04/2024
