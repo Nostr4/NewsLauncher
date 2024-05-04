@@ -1,5 +1,5 @@
-#### ChangeLog
-- 04/05/2024
+##### ChangeLog
+- 24/05/2024
     Se actualiza el Launcher.
 - 25/04/2024
     Se crea el Launcher.
