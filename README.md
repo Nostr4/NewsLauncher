@@ -1,5 +1,12 @@
-# Título del documento
-
-<div style="background-color: red; padding: 20px; color: white;">
-Este es un párrafo dentro del documento README.md con un fondo rojo.
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento HTML con imagen de fondo</title>
+</head>
+<body style="background-image: url('https://i.imgur.com/Vz5hPh1.png'); background-size: cover; background-repeat: no-repeat;">
+    <h1>Título del documento</h1>
+    <p>Este es un párrafo dentro del documento HTML.</p>
+</body>
+</html>
