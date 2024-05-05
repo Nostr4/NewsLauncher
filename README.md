@@ -33,11 +33,8 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
             color: green;
             text-decoration: underline;
         }
-        .update {
-            font-size: 8px;
-            font-family: Arial;
-            color: red;
-        }
+
+
     </style>
 </head>
 <body>
