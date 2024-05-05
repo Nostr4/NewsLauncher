@@ -1,5 +1,5 @@
 <span style="font-size:14pt; color:green; font-family:Arial;"><strong>PIXELMON ENKANTO.</strong></span>
-
+    <h1>PIXELMON ENKANTO</h1>
 Servidor Minecraft - Pixelmon 1.12.2
 
 Para estar actualizado de las novedades visita nuestro [Twitter!](https://twitter.com/PixelmonenKanto)
