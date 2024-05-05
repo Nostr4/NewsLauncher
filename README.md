@@ -6,7 +6,7 @@ Para estar actualizado de las novedades visita nuestro [Twitter!](https://twitte
 
 Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para resolver cualquier duda.
 
-<span style="font-size:9pt;">
+<span style="font-size: 16pt;">
 - <span style="color:red;">**Beta cerrada será lanzada en Verano 2024**</span>
 </span>
 
