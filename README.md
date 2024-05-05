@@ -17,8 +17,10 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 
 -Ahora los jugadores pueden completar la historia hasta la parte
 final de la ciudad Azafrán.
+
 -Se ha corregido un bug que impedía la evolución de los Pokémon
 por aumento de nivel.
+
 -Se ha añadido un nuevo launcher y un instalador para las
 betas cerradas.
 
