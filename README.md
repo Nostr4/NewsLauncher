@@ -12,7 +12,7 @@
     <p><span style="color: rgb(41, 105, 176);">Servidor Minecraft 1.12.2 Mod Pixelmon.</span></p>
     <p><br></p>
     <p>Visita nuestro servidor de <a href="https://discord.gg/WvbrjUweCA">Discord!</a></p>
-    <p>Mantente al d&iacute;a ** las novedades ** nuestro <a href="https://twitter.com/PixelmonenKanto">Twitter!</a></p>
+    <p>Mantente al día de las novedades de nuestro <a href="https://twitter.com/PixelmonenKanto">Twitter!</a></p>
     <p><br></p>
     <p><br></p>
     
