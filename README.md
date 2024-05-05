@@ -57,3 +57,17 @@ betas cerradas.
     </ul>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página</title>
+</head>
+<body>
+    <h1>Mi Página</h1>
+    <p>¡Esta es mi imagen!</p>
+    <img src="https://i.imgur.com/jw26DpP.png" alt="Descripción de la imagen">
+</body>
+</html>
