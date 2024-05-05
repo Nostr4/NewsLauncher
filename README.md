@@ -9,7 +9,5 @@
     <p>Este es un párrafo dentro del documento HTML.</p>
 <td><a href="[VISITA NUESTRO TWITTER!](https://twitter.com/PixelmonenKanto)</a></td>
 
- 
-    
 </body>
 </html>
