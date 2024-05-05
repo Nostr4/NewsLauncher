@@ -14,6 +14,22 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 
 **- Actualización 0.56a**
 
+import markdown
+from IPython.display import display, HTML
+
+# Texto en Markdown
+markdown_text = '''
+<span style="font-size:8px;">- Ahora los jugadores pueden completar la historia hasta la parte final de la ciudad Azafrán.
+- Se ha corregido un bug que impedía la evolución de los Pokémon por aumento de nivel.
+- Se ha añadido un nuevo launcher y un instalador para las betas cerradas.</span>
+'''
+
+# Convertir Markdown a HTML
+html_text = markdown.markdown(markdown_text)
+
+# Mostrar HTML
+display(HTML(html_text))
+
 <div style="font-size:small;">
 - Ahora los jugadores pueden completar la historia hasta la parte final de la ciudad Azafrán.
 - Se ha corregido un bug que impedía la evolución de los Pokémon por aumento de nivel.
