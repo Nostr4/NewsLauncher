@@ -26,7 +26,7 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
     <title>PIXELMON ENKANTO</title>
     <style>
         h1 {
-            font-size: 14px;
+            font-size: 1.4;
             font-family: Arial;
             font-weight: bold;
             color: green;
