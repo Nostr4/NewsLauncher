@@ -10,6 +10,7 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 - <span style="color:red;">**Beta cerrada será lanzada en Verano 2024**</span>
 </span>
 
+![Logo de Pixelmon](https://i.imgur.com/jw26DpP.png)
 ---
 
 **- Actualización 0.56a**
