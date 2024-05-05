@@ -8,6 +8,8 @@
     <h1>Título del hola documento</h1>
     <p>Este es un párrafo dentro del documento HTML.</p>
     <p><strong><span style="font-size: 20px;">Servidor PIXELMON ENKANTO.</span></strong></p>
+    <p><strong><span style="font-size: 20px;">Servidor PIXELMON ENKANTO.</span></strong></p>
+    <p><strong><span style="font-size: 20px;">Servidor PIXELMON ENKANTO.</span></strong></p>
     <p><img src="https://myfiles.space/user_files/213457_c1fb106eadd3bbff/213457_custom_files/img1714898594.png" style="width: 290px; height: 171.205px;" width="290" height="171.205"></p>
     <p><span style="color: rgb(41, 105, 176);">Servidor Minecraft 1.12.2 Mod Pixelmon.</span></p>
     <p><br></p>
