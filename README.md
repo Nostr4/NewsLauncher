@@ -20,16 +20,7 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 - Se ha añadido un nuevo launcher y un instalador para las betas cerradas.
 
 
-        h1 {
-            font-size: 1.4;
-            font-family: Arial;
-            font-weight: bold;
-            color: green;
-            text-decoration: underline;
-        }
 
-
-    </style>
 </head>
 <body>
     <h1>PIXELMON ENKANTO</h1>
