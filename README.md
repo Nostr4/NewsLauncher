@@ -15,6 +15,6 @@
     <p>Mantente al d&iacute;a ** las novedades ** nuestro <a href="https://twitter.com/PixelmonenKanto">Twitter!</a></p>
     <p><br></p>
     <p><br></p>
-    <div style="color: red; font-size: 12px; width: 600px; margin: 0 auto; text-align: center;">Prueba Word to HTML - <a href="https://wordtohtml.net/site/payment">P&aacute;sate a PRO</a>.</div>
+    
 </body>
 </html>
