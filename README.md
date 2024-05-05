@@ -19,13 +19,7 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 - Se ha corregido un bug que impedía la evolución de los Pokémon por aumento de nivel.
 - Se ha añadido un nuevo launcher y un instalador para las betas cerradas.
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PIXELMON ENKANTO</title>
-    <style>
+
         h1 {
             font-size: 1.4;
             font-family: Arial;
