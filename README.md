@@ -4,7 +4,7 @@ Servidor Minecraft - Pixelmon 1.12.2
 
 Para estar actualizado de las novedades visita nuestro [Twitter!](https://twitter.com/PixelmonenKanto)
 
-Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para resolver cualquier duda que tengas.
+Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para resolver cualquier duda.
 
 <span style="font-size:9pt;">
 - <span style="color:red;">**Beta cerrada será lanzada en Verano 2024**</span>
