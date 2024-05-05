@@ -1,18 +1,20 @@
-Hola esto es una prueba de pixelmon enkanto
+**PIXELMON ENKANTO.**
 
-fdfsafas
+Servidor Minecraft - Pixelmon 1.12.2
 
-[pixelmon twitter](https://editormarkdown.com/)
+Para estar actualizado de las novedades visita nuestro [Twitter!](https://twitter.com/PixelmonenKanto)
+
+Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para resolver cualquier duda que tengas.
 
 
-# Servidor Pixelmon Enkanto
 
-## Servidor de Minecraft Mod Pixelmon
-<span style="color:blue">Este es el color Azul "span style="color:blue""</span>
-<!DOCTYPE html>
-<html>
-    <head>
-    <body>
-        <h1>Hello world!</h1>
-    </body>
-</html>
+\- Beta cerrada será lanzada en Verano 2024
+
+-----
+**- Actualización 0.56a**
+
+- Ahora los jugadores pueden completar la historia hasta la parte final de cuidad Azafrán
+- Se ha corregido un bug el cual impedía evolucionar a los Pokemon por aumento de nivel.
+- Se ha añadido un launcher nuevo y un instalador para las betas cerradas.
+
+-----
