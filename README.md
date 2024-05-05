@@ -14,24 +14,18 @@ Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para reso
 
 **- Actualización 0.56a**
 
-import markdown
-from IPython.display import display, HTML
+<span style="font-size:14pt; color:green; font-family:Arial;"><strong>PIXELMON ENKANTO.</strong></span>
 
-# Texto en Markdown
-markdown_text = '''
-<span style="font-size:8px;">- Ahora los jugadores pueden completar la historia hasta la parte final de la ciudad Azafrán.
-- Se ha corregido un bug que impedía la evolución de los Pokémon por aumento de nivel.
-- Se ha añadido un nuevo launcher y un instalador para las betas cerradas.</span>
-'''
+<p>Servidor Minecraft - Pixelmon 1.12.2</p>
 
-# Convertir Markdown a HTML
-html_text = markdown.markdown(markdown_text)
+<p>Para estar actualizado de las novedades visita nuestro <a href="https://twitter.com/PixelmonenKanto">Twitter!</a></p>
 
-# Mostrar HTML
-display(HTML(html_text))
+<p>Pásate por nuestro canal de <a href="https://discord.gg/WvbrjUweCA">Discord!</a> para resolver cualquier duda que tengas.</p>
 
-<div style="font-size:small;">
-- Ahora los jugadores pueden completar la historia hasta la parte final de la ciudad Azafrán.
-- Se ha corregido un bug que impedía la evolución de los Pokémon por aumento de nivel.
-- Se ha añadido un nuevo launcher y un instalador para las betas cerradas.</div>
+<span style="font-size:9pt;">
+- <span style="color:red;"><strong>Beta cerrada será lanzada en Verano 2024</strong></span>
 </span>
+
+<hr>
+
+<p><strong>- Actualización 0.56a</strong></p>
