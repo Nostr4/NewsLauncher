@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body> style="background-image: url('https://i.imgur.com/Vz5hPh1.png'); background-size: cover; background-repeat: no-repeat;">
+<body>
     <h1>Título del hola documento</h1>
     <p>Este es un párrafo dentro del documento HTML.</p>
-<td><a href="[VISITA NUESTRO TWITTER!](https://twitter.com/PixelmonenKanto)</a></td>
+<td><a href="[VISITA NUESTRO TWITTER!]"(https://twitter.com/PixelmonenKanto)</a></td>
 
 </body>
 </html>
