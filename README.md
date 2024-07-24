@@ -1,6 +1,7 @@
 
 <h1>PIXELMON ENKANTO</h1>
 Servidor Minecraft - Pixelmon 1.12.2
+Test del ejecutable
 
 Para estar actualizado de las novedades visita nuestro [X!](https://x.com/PixelmonenKanto)
 
