@@ -1,18 +1,18 @@
 
 <h1>PIXELMON ENKANTO</h1>
-Servidor Minecraft - Pixelmon 1.12.2
-Test del ejecutable
+**Servidor Minecraft - Pixelmon 1.12.2**
 
 Para estar actualizado de las novedades visita nuestro [X!](https://x.com/PixelmonenKanto)
 
 Pásate por nuestro canal de [Discord!](https://discord.gg/WvbrjUweCA) para resolver cualquier duda.
 
-<span style="font-size: 1.6;">
-- <span style="color:red;">**Se lanzará una última BETA en Agosto 2024**</span>
-</span>
+**- Actualización 0.58a**
 
-![Logo de Pixelmon](https://i.imgur.com/jw26DpP.png)
----
+La beta abre sus puertas y de la bienvenida a los 8 participantes de la misma.
+
+Ante todo, gracias por participar y esperamos que aún siendo una beta, disfrutéis con nosotros de esta aventura.
+
+Se va a intentar extraer una serie de estadísticas sobre la beta para mejorar de cara a la versión final.
 
 **- Actualización 0.57a**
 
