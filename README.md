@@ -14,6 +14,7 @@
 - Reto PVE desbloqueable tras vencer al Alto Mando.
 
 **Mantente Informado**<br>
+
 - [X](https://x.com/PixelmonenKanto)<br>
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
 - [Instagram](https://www.instagram.com/pixelmonenkanto/) 
