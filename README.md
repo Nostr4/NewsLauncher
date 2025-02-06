@@ -13,7 +13,7 @@
 - 3 zonas nuevas desbloqueables.
 - Reto PVE desbloqueable tras vencer al Alto Mando.
 
-<div style="text-align: center;"><h3>Mantente Informado</div>h3>
+<div style="text-align: center;"><h3>Mantente Informado</div><h3>
 <div style="text-align: center;">
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
 - [ X ](https://x.com/PixelmonenKanto)<br>
