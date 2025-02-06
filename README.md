@@ -16,7 +16,7 @@
 <div style="text-align: center;">**Mantente Informado**</div>
 
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
-- [X.com](https://x.com/PixelmonenKanto)<br>
+- [ X ](https://x.com/PixelmonenKanto)<br>
 - [Instagram](https://www.instagram.com/pixelmonenkanto) 
 
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
