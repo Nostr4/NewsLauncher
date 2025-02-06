@@ -1,6 +1,6 @@
 
 <span style="color:green;"><h1>PIXELMON ENKANTO</h1></span>
-**Servidor Minecraft - Pixelmon 1.12.2**
+**Servidor Minecraft - Pixelmon 1.12.2**<br>
 **Región de Kanto - Versión RF/VH**
 
 - Mapa 100% completo.
