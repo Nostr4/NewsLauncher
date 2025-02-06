@@ -14,7 +14,7 @@
 - Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 
-<div style="text-align: center;"><h3>Mantente Informado</h3></div>
+<div style="text-align: center;"><h4>Mantente Informado</h4></div>
 <div style="text-align: center;">
 <a href="https://pixelmon-enkanto.com">Discord</a> - <a href="https://discord.gg/GQqXDHxgre">X</a> - <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
 </div>
