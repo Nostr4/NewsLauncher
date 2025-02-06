@@ -1,5 +1,5 @@
 
-<span style="color:green;"><h1>PIXELMON ENKANTO</h1></span>
+<div style="color: green; text-align: center;"><h1>PIXELMON ENKANTO</h1></div>
 **Servidor Minecraft - Pixelmon 1.12.2 - Región de Kanto**
 
 - Mapa 100% completo.
@@ -18,10 +18,5 @@
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
 - [Instagram](https://www.instagram.com/pixelmonenkanto/) 
 
-
-<div style="color: green; text-align: center;">
-  Texto centrado y en verde
-</div>
-
-<span style="color: green; text-align: center;"><h3>NOTICIAS</h3></span>
+<div style="color: green; text-align: center;">><h3>NOTICIAS</h3></div>
 - Fecha prevista de lanzamiento -> 14/21 Marzo.
