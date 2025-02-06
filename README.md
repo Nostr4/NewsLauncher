@@ -15,6 +15,7 @@
 
 <div style="text-align: center;"><h3>Mantente Informado<h3></div>
 <div style="text-align: center;">
+- <a href="https://pixelmon-enkanto.com">Discord</a>
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
 - [ X ](https://x.com/PixelmonenKanto)<br>
 - [Instagram](https://www.instagram.com/pixelmonenkanto) 
