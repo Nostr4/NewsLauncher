@@ -19,5 +19,5 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3>
 <em>Fecha prevista de lanzamiento -> Marzo 2025.<br>
-¡Nuevo <a style="color: green; href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
+¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
 </div>
