@@ -6,7 +6,7 @@
 - Mapa 100% completo.
 - Promagación optimizada para una aventura como en su día.
 - 151 pokémon capturables.
-- +20 Easter Eggs
+- Decenas de Easter Eggs
 - Sprites especiales para ciertos pokémons.
 - Rate Shiny 1/1500
 - Rate Hidden Abilitie 1/500
