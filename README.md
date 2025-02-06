@@ -19,5 +19,5 @@ Mantente Informado:
 - [Discord](https://discord.gg/WvbrjUweCA)
 - [Instagram](https://www.instagram.com/pixelmonenkanto/) 
 
-<center><span style="color:green;"><h3>NOTICIAS</h3></span></center>
+<span style="color: green; text-align: center;"><h3>NOTICIAS</h3></span>
 - Fecha prevista de lanzamiento -> 14/21 Marzo.
