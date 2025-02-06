@@ -1,6 +1,7 @@
 
-<span style="color:red;"><h1>PIXELMON ENKANTO</h1></span>
-**Servidor Minecraft - Pixelmon 1.12.2 - Región de Kanto - Versión RF/VH**
+<span style="color:green;"><h1>PIXELMON ENKANTO</h1></span>
+**Servidor Minecraft - Pixelmon 1.12.2**
+**Región de Kanto - Versión RF/VH**
 
 - Mapa 100% completo.
 - Promagación optimizada para una aventura como en su día.
@@ -18,5 +19,5 @@ Mantente Informado:
 - [Discord!](https://discord.gg/WvbrjUweCA)
 - [Instagram!](https://www.instagram.com/pixelmonenkanto/) 
 
-<span style="color:green;"><h3>NOTICIAS</h3></span>
+<center><span style="color:green;"><h3>NOTICIAS</h3></span></center>
 - Fecha prevista de lanzamiento -> 14/21 Marzo.
