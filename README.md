@@ -1,6 +1,6 @@
 
 <div style="color: green; text-align: center;"><h1>PIXELMON ENKANTO</h1></div>
-<div style="text-align: center;"><h3>Servidor Minecraft - Pixelmon 1.12.2 - Región de Kanto<h3></div>
+<div style="text-align: center;"><h3>Servidor Minecraft - Pixelmon 1.12.2 - Región de Kanto</h3></div>
 
 - Mapa 100% completo.
 - Promagación optimizada para una aventura como en su día.
@@ -13,7 +13,7 @@
 - 3 zonas nuevas desbloqueables.
 - Reto PVE desbloqueable tras vencer al Alto Mando.
 
-<div style="text-align: center;"><h3>Mantente Informado<h3></div>
+<div style="text-align: center;"><h3>Mantente Informado</h3></div>
 <div style="text-align: center;">
 - <a href="https://pixelmon-enkanto.com">Discord</a>
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
