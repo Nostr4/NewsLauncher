@@ -18,4 +18,6 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 <a href="https://pixelmon-enkanto.com">Discord</a> - <a href="https://discord.gg/GQqXDHxgre">X</a> - <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3>
-<em>Fecha prevista de lanzamiento -> Marzo 2025.</em></div>
+<em>Fecha prevista de lanzamiento -> Marzo 2025.<br>
+¡Nuevo <a style="color: green; href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
+</div>
