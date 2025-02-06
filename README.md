@@ -18,4 +18,4 @@
 <a href="https://pixelmon-enkanto.com">Discord</a> - <a href="https://discord.gg/GQqXDHxgre">X</a> - <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
-- Fecha prevista de lanzamiento -> 14/21 Marzo.
+- Fecha prevista de lanzamiento -> Marzo 2025.
