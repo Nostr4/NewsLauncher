@@ -14,9 +14,10 @@
 - Reto PVE desbloqueable tras vencer al Alto Mando.
 
 <div style="text-align: center;">**Mantente Informado**</div>
-- [X](https://x.com/PixelmonenKanto)<br>
+
 - [Discord](https://discord.gg/WvbrjUweCA)<br>
-- [Instagram](https://www.instagram.com/pixelmonenkanto/) 
+- [X.com](https://x.com/PixelmonenKanto)<br>
+- [Instagram](https://www.instagram.com/pixelmonenkanto) 
 
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
 - Fecha prevista de lanzamiento -> 14/21 Marzo.
