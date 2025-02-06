@@ -14,8 +14,7 @@ No pay to win. Todo es conseguible con tiempo de juego<br>
 Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 
-<div style="text-align: center;"><h4>Mantente Informado</h4></div>
-<div style="text-align: center;">
+<div style="text-align: center;"><h4>Mantente Informado</h4>
 <a href="https://pixelmon-enkanto.com">Discord</a> - <a href="https://discord.gg/GQqXDHxgre">X</a> - <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
