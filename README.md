@@ -15,9 +15,7 @@
 
 <div style="text-align: center;"><h3>Mantente Informado</h3></div>
 <div style="text-align: center;">
-- <a href="https://pixelmon-enkanto.com">Discord</a><br>
-- <a href="https://x.com/PixelmonenKanto">X</a><br>
-- <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
+<a href="https://pixelmon-enkanto.com">Discord</a> - <a href="https://discord.gg/GQqXDHxgre">X</a> - <a href="https://www.instagram.com/pixelmonenkanto">Instagram</a><br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
 - Fecha prevista de lanzamiento -> 14/21 Marzo.
