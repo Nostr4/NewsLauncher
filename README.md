@@ -14,6 +14,6 @@ No pay to win. Todo es conseguible jugando<br>
 Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
-<div style="text-align: center;"><em>Fecha prevista de lanzamiento -> Marzo 2025.<br>
+<div style="text-align: center;"><em>Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
 ¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
 </div>
