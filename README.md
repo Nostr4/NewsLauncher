@@ -9,7 +9,7 @@ Decenas de Easter Eggs<br>
 Sprites especiales para ciertos pokémons<br>
 Rate Shiny 1/1500<br>
 Rate Hidden Ability 1/100<br>
-No pay to win. Todo es conseguible con tiempo de juego<br>
+No pay to win. Todo es conseguible jugando<br>
 3 zonas nuevas desbloqueables<br>
 Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
