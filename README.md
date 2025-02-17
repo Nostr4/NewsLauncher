@@ -3,7 +3,7 @@
 <div style="text-align: center;"><h3>Servidor Minecraft - Pixelmon 1.12.2<br> Región de Kanto</h3></div>
 <div style="text-align: center; font-size: 12px;">
 Mapa 100% completo<br>
-Promagación optimizada para una aventura como en su día<br>
+Programación optimizada para una aventura como en su día<br>
 151 pokémon capturables<br>
 Decenas de Easter Eggs<br>
 Sprites especiales para ciertos pokémons<br>
