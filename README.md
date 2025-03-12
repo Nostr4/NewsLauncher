@@ -13,9 +13,7 @@ No pay to win. Todo es conseguible jugando<br>
 3 zonas nuevas desbloqueables<br>
 Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
-<div style="text-align: center;">
-  <iframe width="300" height="154" src="https://w2.countingdownto.com/6121649" frameborder="0"></iframe>
-</div>
+
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
 <div style="text-align: center;"><em>Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
 ¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
