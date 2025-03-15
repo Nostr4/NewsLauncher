@@ -7,7 +7,7 @@ Programación optimizada para una aventura como en su día<br>
 151 pokémon capturables<br>
 Decenas de Easter Eggs<br>
 Sprites especiales para ciertos pokémons<br>
-Rate Shiny 1/1500<br>
+Rate Shiny 1/2000<br>
 Rate Hidden Ability 1/100<br>
 No pay to win. Todo es conseguible jugando<br>
 3 zonas nuevas desbloqueables<br>
