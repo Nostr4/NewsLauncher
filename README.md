@@ -15,8 +15,8 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
-<div style="text-align: center;"><em>Notas del Parche 1.01
-Información general
+<div style="text-align: center;"><em>Notas del Parche 1.01<br>
+Información general<br>
 🔹Añadida Nueva zona de entrenamiento desbloqueable en el Hall por 40 niveles.
 
 🔹La Happy Hour se activa con un intervalo de 3 horas.
@@ -25,7 +25,7 @@ Información general
 
 🔹Se ha añadido canal de imágenes en Discord
 
-Actualización de contenido
+Actualización de contenido<br>
 🔹 Ahora se obtiene experiencia realizando misiones de crianza.
             •   Lirio - 10 exp
             •   Tulipán 15 exp
@@ -39,7 +39,7 @@ Actualización de contenido
             •   2 Honor ball
             •   2 Trozos de deseo.
 
-Corrección de bug’s
+Corrección de bugs<br>
 🔹 Solucionado bug que hacía que los jugadores quedasen atrapados en una zona de Ciudad Celeste.
 
 🔹 Solucionado un bug que hacía que el puzle para conseguir a Articuno fallase en algunos casos.
