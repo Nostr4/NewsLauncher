@@ -47,6 +47,6 @@ Corrección de bugs<br>
 🔹 Solucionado un problema con las skins de los NPC’s
 
 🔹 Solucionado un problema que hacía que los jugadores pudiesen volar sobre los Pokemons enseñándoles vuelo. <br>
-<em>Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
+<em>Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br><br>
 ¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
 </div>
