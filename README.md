@@ -15,7 +15,7 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
-<div style="text-align: center;"><em>Notas del Parche 1.01<br>
+<div style="text-align: center;"><em>22/03/2025 - Notas del Parche 1.01<br>
 Información general<br>
 🔹Añadida Nueva zona de entrenamiento desbloqueable en el Hall por 40 niveles.
 
@@ -46,7 +46,7 @@ Corrección de bugs<br>
 
 🔹 Solucionado un problema con las skins de los NPC’s
 
-🔹 Solucionado un problema que hacía que los jugadores pudiesen volar sobre los Pokemons enseñándoles vuelo. <br>
-<em>Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br><br>
+🔹 Solucionado un problema que hacía que los jugadores pudiesen volar sobre los Pokemons enseñándoles vuelo. <br><br>
+<em>14/03/2025 - Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
 ¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
 </div>
