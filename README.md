@@ -40,5 +40,5 @@ Corrección de bugs<br>
 
 ------------------------------------------------------<br>
 <em>14/03/2025 - Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
-¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
+¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram!</a></em>
 </div>
