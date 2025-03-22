@@ -17,35 +17,25 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
 <div style="text-align: center;"><em>22/03/2025 - Notas del Parche 1.01<br>
 Información general<br>
-🔹Añadida Nueva zona de entrenamiento desbloqueable en el Hall por 40 niveles.
-
-🔹La Happy Hour se activa con un intervalo de 3 horas.
-
-🔹Se han revisado sugerencias de algunos jugadores y pronto se notificarán nuevas actualizaciones. 
-
-🔹Se ha añadido canal de imágenes en Discord
-
+🔹Añadida Nueva zona de entrenamiento desbloqueable en el Hall por 40 niveles.<br>
+🔹La Happy Hour se activa con un intervalo de 3 horas.<br>
+🔹Se han revisado sugerencias de algunos jugadores y pronto se notificarán nuevas actualizaciones.<br>
+🔹Se ha añadido canal de imágenes en Discord<br><br>
 Actualización de contenido<br>
 🔹 Ahora se obtiene experiencia realizando misiones de crianza.
             •   Lirio - 10 exp
             •   Tulipán 15 exp
             •   Flor de Loto 20 exp
-            •   Flor Woke 25 exp
-
-🔹 Se ha aumentado la memoria RAM del servidor para evitar reinicios no programados.
-
+            •   Flor Woke 25 exp<br>
+🔹 Se ha aumentado la memoria RAM del servidor para evitar reinicios no programados.<br>
 🔹 Se ha modificado el pack diario gratuito de la Tienda de Pixelmon enKanto, ahora se obtiene lo siguiente:
             •   1 Huevo basic
             •   2 Honor ball
-            •   2 Trozos de deseo.
-
+            •   2 Trozos de deseo.<br><br>
 Corrección de bugs<br>
-🔹 Solucionado bug que hacía que los jugadores quedasen atrapados en una zona de Ciudad Celeste.
-
-🔹 Solucionado un bug que hacía que el puzle para conseguir a Articuno fallase en algunos casos.
-
-🔹 Solucionado un problema con las skins de los NPC’s
-
+🔹 Solucionado bug que hacía que los jugadores quedasen atrapados en una zona de Ciudad Celeste.<br>
+🔹 Solucionado un bug que hacía que el puzle para conseguir a Articuno fallase en algunos casos.<br>
+🔹 Solucionado un problema con las skins de los NPC’s<br>
 🔹 Solucionado un problema que hacía que los jugadores pudiesen volar sobre los Pokemons enseñándoles vuelo. <br><br>
 
 ------------------------------------------------------<br>
