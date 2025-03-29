@@ -15,7 +15,8 @@ Reto PVE desbloqueable tras vencer al Alto Mando<br>
 </div>
 
 <div style="color: green; text-align: center;"><h3>NOTICIAS</h3></div>
-<div style="text-align: center;"><em>22/03/2025 - <a style="color: green;" href="https://discord.com/channels/956229286363275284/1264331039455580203/1352955164868218930">Notas del Parche 1.01</a></em><br>
+<div style="text-align: center;"><em>29/03/2025 - TORNEO PIXELMON - Únete <a style="color: green;" href="https://discord.com/channels/956229286363275284/956234325517566033/1354913210247020625">AQUÍ</a><br>
+  22/03/2025 - <a style="color: green;" href="https://discord.com/channels/956229286363275284/1264331039455580203/1352955164868218930">Notas del Parche 1.01</a></em><br>
 ------------------------------------------------------<br>
 <em>14/03/2025 - Lanzamiento oficial -> 14 Marzo 2025 -> 21:30<br>
 ¡Nuevo <a style="color: green;" href="https://www.instagram.com/pixelmonenkanto">Instagram</a>!</em>
